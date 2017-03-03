@@ -1,3 +1,3 @@
 library(devtools)
 
-install.packages('psych')
+install.packages(c('psych', 'GPArotation', 'sem'))
